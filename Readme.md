@@ -1,4 +1,6 @@
-# Customer Churn Prediction 🎯
+# Customer Churn Prediction 
+
+<video src="https://github.com/user-attachments/assets/18ac39f7-6342-43e8-a6cd-feb53c2873ae" width="352" height="500"></video>
 
 A comprehensive machine learning project to predict customer churn using various classification algorithms. This project demonstrates end-to-end ML pipeline development including exploratory data analysis, feature engineering, model training, evaluation, and deployment-ready predictions.
 
